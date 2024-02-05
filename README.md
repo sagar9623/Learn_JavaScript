@@ -3,52 +3,52 @@
 This repository is dedicated to exploring the fundamental concepts and functionalities of JavaScript, the versatile programming language that's an essential part of web development.
 Through various examples, exercises, and explanations, we aim to cover a wide range of topics from basic syntax to more advanced features.
 
-Topics Covered
+**Topics Covered**
 
 1. Variables and Data Types
 -Understanding var, let, and const
 -Data types: Strings, Numbers, Booleans, Objects, and Arrays
 
-2. Operators
+3. Operators
 -Arithmetic Operators
 -Comparison Operators
 -Logical Operators
 -Assignment Operators
 
-3. Control Structures
+4. Control Structures
 -If-Else Statements
 -Switch Statements
 -For and While Loops
 
-4. Functions
+5. Functions
 -Defining Functions
 -Function Parameters and Return Values
 -Arrow Functions
 -Higher-Order Functions
 
-5. Objects and Arrays
+6. Objects and Arrays
 -Creating and Accessing Objects
 -Object Properties and Methods
 -Working with Arrays: Methods like push, pop, shift, unshift
 -Nested Arrays and Objects
 
-6. DOM Manipulation (Basic Introduction)
+7. DOM Manipulation (Basic Introduction)
 -Selecting Elements
 -Changing Element Properties
 -Event Handling
 
-7. ES6 Features
+8. ES6 Features
 -Template Literals
 -Destructuring Assignment
 -Spread and Rest Operators
 -Default Parameters
 
-8. Asynchronous JavaScript
+9. Asynchronous JavaScript
 -Callbacks
 -Promises
 -Async/Await
 
-9. JavaScript Best Practices
+10. JavaScript Best Practices
 -Code Structure
 -Naming Conventions
 -Error Handling
