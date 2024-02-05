@@ -11,7 +11,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Data types: Strings, Numbers, Booleans, Objects, and Arrays.
 
-3. Operators
+2. Operators
 
    -Arithmetic Operators
 
@@ -21,7 +21,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Assignment Operators
 
-5. Control Structures
+3. Control Structures
    
    -If-Else Statements
 
@@ -29,7 +29,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -For and While Loops
 
-7. Functions
+4. Functions
 
    -Defining Functions
 
@@ -39,7 +39,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Higher-Order Functions
 
-6. Objects and Arrays
+5. Objects and Arrays
     
    -Creating and Accessing Objects
 
@@ -48,7 +48,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
    -Working with Arrays: Methods like push, pop, shift, unshift
 
    -Nested Arrays and Objects
-
+   
 7. DOM Manipulation (Basic Introduction)
 
    -Selecting Elements
