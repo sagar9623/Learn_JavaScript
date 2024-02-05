@@ -6,49 +6,53 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 **Topics Covered**
 
 1. Variables and Data Types
--Understanding var, let, and const
--Data types: Strings, Numbers, Booleans, Objects, and Arrays
+-Understanding var, let, and const.
+
+-Data types: Strings, Numbers, Booleans, Objects, and Arrays.
 
 3. Operators
 -Arithmetic Operators
+
 -Comparison Operators
+
 -Logical Operators
+
 -Assignment Operators
 
-4. Control Structures
+5. Control Structures
 -If-Else Statements
 -Switch Statements
 -For and While Loops
 
-5. Functions
+6. Functions
 -Defining Functions
 -Function Parameters and Return Values
 -Arrow Functions
 -Higher-Order Functions
 
-6. Objects and Arrays
+7. Objects and Arrays
 -Creating and Accessing Objects
 -Object Properties and Methods
 -Working with Arrays: Methods like push, pop, shift, unshift
 -Nested Arrays and Objects
 
-7. DOM Manipulation (Basic Introduction)
+8. DOM Manipulation (Basic Introduction)
 -Selecting Elements
 -Changing Element Properties
 -Event Handling
 
-8. ES6 Features
+9. ES6 Features
 -Template Literals
 -Destructuring Assignment
 -Spread and Rest Operators
 -Default Parameters
 
-9. Asynchronous JavaScript
+10. Asynchronous JavaScript
 -Callbacks
 -Promises
 -Async/Await
 
-10. JavaScript Best Practices
+11. JavaScript Best Practices
 -Code Structure
 -Naming Conventions
 -Error Handling
