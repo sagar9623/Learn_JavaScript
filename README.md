@@ -1,6 +1,6 @@
-JavaScript Fundamentals and Concepts
+**JavaScript Fundamentals and Concepts**
 
-This repository is dedicated to exploring fundamental concepts and functionalities of JavaScript, the versatile programming language that's an essential part of web development.
+This repository is dedicated to exploring the fundamental concepts and functionalities of JavaScript, the versatile programming language that's an essential part of web development.
 Through various examples, exercises, and explanations, we aim to cover a wide range of topics from basic syntax to more advanced features.
 
 Topics Covered
