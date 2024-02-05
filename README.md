@@ -87,10 +87,10 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
 **To get started with the exercises and examples in this repository:**
 
-1. Clone the repository to your local machine.
-2. Open the files in your favorite code editor.
-3. Use a web browser to view the HTML files, or run JavaScript files using a runtime like Node.js.
-4. Follow the comments in the code for instructions and explanations.
+ 1. Clone the repository to your local machine.
+ 2. Open the files in your favorite code editor.
+ 3. Use a web browser to view the HTML files, or run JavaScript files using a runtime like Node.js.
+ 4. Follow the comments in the code for instructions and explanations.
 
 **Contributing**
 
