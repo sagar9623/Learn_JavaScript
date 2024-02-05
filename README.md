@@ -7,83 +7,83 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
 1. Variables and Data Types
 
-  -Understanding var, let, and const.
+   -Understanding var, let, and const.
 
-  -Data types: Strings, Numbers, Booleans, Objects, and Arrays.
+   -Data types: Strings, Numbers, Booleans, Objects, and Arrays.
 
 3. Operators
 
-  -Arithmetic Operators
+   -Arithmetic Operators
 
-  -Comparison Operators
+   -Comparison Operators
 
-  -Logical Operators
+   -Logical Operators
 
-  -Assignment Operators
+   -Assignment Operators
 
 5. Control Structures
    
-  -If-Else Statements
+   -If-Else Statements
 
-  -Switch Statements
+   -Switch Statements
 
-  -For and While Loops
+   -For and While Loops
 
 7. Functions
 
-  -Defining Functions
+   -Defining Functions
 
-  -Function Parameters and Return Values
+   -Function Parameters and Return Values
 
-  -Arrow Functions
+   -Arrow Functions
 
-  -Higher-Order Functions
+   -Higher-Order Functions
 
 9. Objects and Arrays
     
-  -Creating and Accessing Objects
+   -Creating and Accessing Objects
 
-  -Object Properties and Methods
+   -Object Properties and Methods
 
-  -Working with Arrays: Methods like push, pop, shift, unshift
+   -Working with Arrays: Methods like push, pop, shift, unshift
 
-  -Nested Arrays and Objects
+   -Nested Arrays and Objects
 
 10. DOM Manipulation (Basic Introduction)
 
-  -Selecting Elements
+   -Selecting Elements
 
-  -Changing Element Properties
+   -Changing Element Properties
 
-  -Event Handling
+   -Event Handling
 
 11. ES6 Features
 
-  -Template Literals
+   -Template Literals
 
-  -Destructuring Assignment
+   -Destructuring Assignment
 
-  -Spread and Rest Operators
+   -Spread and Rest Operators
 
-  -Default Parameters
+   -Default Parameters
 
 12. Asynchronous JavaScript
     
-  -Callbacks
+   -Callbacks
 
-  -Promises
+   -Promises
 
-  -Async/Await
+   -Async/Await
 
 13. JavaScript Best Practices
 
--Code Structure
+   -Code Structure
 
-  -Naming Conventions
+   -Naming Conventions
 
-  -Error Handling
+   -Error Handling
 
-  -Getting Started
+   -Getting Started
 
 **To get started with the exercises and examples in this repository:**
 
@@ -94,12 +94,12 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
 **Contributing**
 
--Contributions to enhance the learning experience or to add more topics are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+ -Contributions to enhance the learning experience or to add more topics are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 **Acknowledgments**
 
--Thanks to all contributors who have helped in building this resource.
+ -Thanks to all contributors who have helped in building this resource.
 
--Special thanks to the JavaScript community for providing endless resources and support.
+ -Special thanks to the JavaScript community for providing endless resources and support.
 
 Happy Coding! 🚀
