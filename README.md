@@ -39,7 +39,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Higher-Order Functions
 
-9. Objects and Arrays
+6. Objects and Arrays
     
    -Creating and Accessing Objects
 
@@ -49,7 +49,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Nested Arrays and Objects
 
-10. DOM Manipulation (Basic Introduction)
+7. DOM Manipulation (Basic Introduction)
 
    -Selecting Elements
 
@@ -57,7 +57,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Event Handling
 
-11. ES6 Features
+8. ES6 Features
 
    -Template Literals
 
@@ -67,7 +67,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Default Parameters
 
-12. Asynchronous JavaScript
+9. Asynchronous JavaScript
     
    -Callbacks
 
@@ -75,7 +75,7 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
    -Async/Await
 
-13. JavaScript Best Practices
+10. JavaScript Best Practices
 
    -Code Structure
 
