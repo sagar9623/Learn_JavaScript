@@ -77,13 +77,13 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
 10. JavaScript Best Practices
 
-   -Code Structure
+    -Code Structure
 
-   -Naming Conventions
+    -Naming Conventions
 
-   -Error Handling
+    -Error Handling
 
-   -Getting Started
+    -Getting Started
 
 **To get started with the exercises and examples in this repository:**
 
