@@ -1,9 +1,13 @@
-**JavaScript Fundamentals and Concepts**
+# JavaScript Fundamentals and Concepts
 
-This repository is dedicated to exploring the fundamental concepts and functionalities of JavaScript, the versatile programming language that's an essential part of web development.
+This repository explores the fundamental concepts and functionalities of JavaScript, the versatile programming language essential to web development.
 Through various examples, exercises, and explanations, we aim to cover a wide range of topics from basic syntax to more advanced features.
 
-**Topics Covered**
+## Tutorial Link
+
+YouTube: [Access the tutorial here](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=3360s).
+
+## Topics Covered
 
 1. Variables and Data Types
 
@@ -85,14 +89,14 @@ Through various examples, exercises, and explanations, we aim to cover a wide ra
 
     -Getting Started
 
-**To get started with the exercises and examples in this repository:**
+## To get started with the exercises and examples in this repository:
 
   1. Clone the repository to your local machine.
   2. Open the files in your favorite code editor.
   3. Use a web browser to view the HTML files, or run JavaScript files using a runtime like Node.js.
   4. Follow the comments in the code for instructions and explanations.
 
-**Contributing**
+## Contributing
 
   -Contributions to enhance the learning experience or to add more topics are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
